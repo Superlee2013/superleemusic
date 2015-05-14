@@ -1,0 +1,2 @@
+D:\MyCoding\AndroidStudio\superleemusic\build\intermediates\classes\debug
+D:\MyCoding\AndroidStudio\superleemusic\build\intermediates\pre-dexed\debug\android-support-v4-d89f5e0f079c35f891bde312591488ca93e18cb7.jar
